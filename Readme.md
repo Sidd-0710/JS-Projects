@@ -197,7 +197,7 @@ A task management application that allows users to add, edit, and delete tasks.
 
 1. Clone this repository:
 ```
-git clone https://github.com/your-username/javascript-projects.git
+git clone https://github.com/Sidd-0710/JS-Projects.git
 ```
 
 2. Navigate to the project directory:
