@@ -202,7 +202,7 @@ git clone https://github.com/Sidd-0710/JS-Projects.git
 
 2. Navigate to the project directory:
 ```
-cd javascript-projects
+cd JS-Projects
 ```
 
 3. Open the project folder of your choice and open the `index.html` file in your browser.
